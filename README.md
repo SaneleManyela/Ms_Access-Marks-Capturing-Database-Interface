@@ -1,2 +1,2 @@
 # Ms_Access-Marks-Capturing-Database-Interface
-A simple Microsoft Access developed marks capturing system.
+A simple system of interfaces backed by a database that is developed using Microsoft Access.
